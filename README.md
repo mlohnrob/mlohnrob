@@ -2,6 +2,7 @@
 
 ## Wayt Mirror
 ![Wayt Mirror Image](https://github.com/mlohnrob/mlohnrob/blob/master/wayt_mirror.png?raw=true)
+![Wayt Mirror Image 2](https://raw.githubusercontent.com/mlohnrob/mlohnrob/master/received_540011734791077.jpeg)
 
 **Wayt Mirror is a smart mirror for hotels that show relevant information to the guests in their room. Info like weather and forecast, time and date, local news, the hotel agenda, and advertisements from local businesses.**
 
