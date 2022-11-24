@@ -24,7 +24,7 @@
 **Database:** PostgreSQL
 
 ## Laslog
-![Laslog Image](https://github.com/mlohnrob/mlohnrob/blob/master/laslog.png?raw=true)
+![Laslog Image](https://github.com/mlohnrob/mlohnrob/blob/master/laslog_feed.png?raw=true)
 
 **Laslog is an app for making and saving damage logs for truck trailers. The app is especially relevant for transportation companies.**
 
@@ -35,6 +35,8 @@
 **Database:** AWS RDS PostgreSQL
 
 ## Medlink (in progress)
+![medlink Image](https://github.com/mlohnrob/mlohnrob/blob/master/alerts_page.png?raw=true)
+
 **Medlink is an app for easier communication between patient and nurse in hospitals. In stead of the patient pulling the red wire every time they are hungry, thirsty, or needs help to go to the bathroom, they can just press the suitable button in the medlink app. This will then notify the correct nurse.**
 
 **Frontend:** Flutter in Dart
